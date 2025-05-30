@@ -27,3 +27,6 @@ vol. 1, pp. 61-77, 2023, doi: 10.1109/TMLCN.2023.3283350.
 1) SCMA codebook with OR = 150%: ResNet_150
 2) SCMA codebook with OR = 300%: ResNet_300
 
+Two additional measurement data files with diverse characteristics were collected throughout the entire factory area. 
+1) out_mes_23_testMobility.csv: BS height to 2.2 m and the AGV height to 85 cm. Samples were collected from the entire factory. 
+2) out_mes_23_testMobility3.csv: BS height to 2.2 m and the AGV height to 15 cm. Samples were collected from the entire factory.
